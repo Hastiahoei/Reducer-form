@@ -1,5 +1,5 @@
 import React, { useReducer } from 'react';
-import React , {useReduser} from "react"
+import React , {useReduser}
 import './App.css';
 
 const initialState = {
