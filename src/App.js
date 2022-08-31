@@ -263,6 +263,7 @@ function App() {
           </div>
 
           <button onClick={submitHandler} disabled={!formState.isValid}>Submit</button>
+          <button onClick={submitHandler} disabled={!formState.isValid}>Submit</button>
         </form>
 
       </main>
